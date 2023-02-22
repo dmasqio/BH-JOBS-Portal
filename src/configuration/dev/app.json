@@ -32,9 +32,9 @@
   "maxUploadSize": 5242880,
   "service": {
     "batchSize": 500,
-    "corpToken": "1VCNF4",
+    "corpToken": "DJVM1",
     "port": null,
-    "swimlane": "91",
+    "swimlane": "41",
     "fields": [
       "id",
       "title",
